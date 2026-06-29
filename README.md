@@ -118,7 +118,7 @@ The **Smart Library Request Workflow** solves these problems by automating the e
 | Technology | Purpose |
 |:---:|:---|
 | ![ServiceNow](https://img.shields.io/badge/ServiceNow-00C853?style=flat-square&logo=servicenow&logoColor=white) | Core platform for application development |
-| ![Flow Designer](https://img.shields.io/badge/Flow_Designer-7928CA?style=flat-square&logo=automattic&logoColor=white) | Automated approval workflow automation engine |
+| ![Flow Designer](https://img.shields.io/badge/Flow_Designer-7928CA?style=flat-square&logo=automattic&logoColor=white) | Automated approval workflow engine |
 | ![ACL](https://img.shields.io/badge/ACL-E53935?style=flat-square&logo=springsecurity&logoColor=white) | Role-based access control & security |
 | ![UI Policy](https://img.shields.io/badge/UI_Policy-FF9800?style=flat-square&logo=checkmarx&logoColor=white) | Dynamic form validation & field control |
 | ![Reference Qualifier](https://img.shields.io/badge/Reference_Qualifier-00B0FF?style=flat-square&logo=target&logoColor=white) | Filters books to show only available ones |
