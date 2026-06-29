@@ -122,7 +122,7 @@ The **Smart Library Request Workflow** solves these problems by automating the e
 | ![ACL](https://img.shields.io/badge/ACL-E53935?style=flat-square&logo=springsecurity&logoColor=white) | Role-based access control & security |
 | ![UI Policy](https://img.shields.io/badge/UI_Policy-FF9800?style=flat-square&logo=checkmarx&logoColor=white) | Dynamic form validation & field control |
 | ![Reference Qualifier](https://img.shields.io/badge/Reference_Qualifier-00B0FF?style=flat-square&logo=target&logoColor=white) | Filters books to show only available ones |
-| ![Reports](https://img.shields.io/badge/Reports-009688?style=flat-square&logo=googleanalytics&logoColor=white) | Library analytics and borrowing statistics |
+| ![Reports](https://img.shields.io/badge/Reports-009688?style=flat-square&logo=googleanalytics&logoColor=white) | Library analytics & borrowing statistics |
 | ![Custom Tables](https://img.shields.io/badge/Custom_Tables-455A64?style=flat-square&logo=airtable&logoColor=white) | Book & Borrow Request data models |
 | ![Roles](https://img.shields.io/badge/Roles_&_Users-795548?style=flat-square&logo=ionic&logoColor=white) | Student & Librarian role management |
 
