@@ -152,10 +152,10 @@ The **Smart Library Request Workflow** solves these problems by automating the e
 |:---|:---:|
 | View Books | ✅ |
 | Create Borrow Requests | ✅ |
-| View Own Requests | ✅ |
+| View Own Requests/ | ✅ |
 | View Others' Requests | ❌ |
-| Manage Books | ❌ |
-| Approve/Reject Requests | ❌ |
+| Manage Books. | ❌ |
+| Approve/Reject Requests. | ❌ |
 
 </td>
 <td width="50%" align="center">
